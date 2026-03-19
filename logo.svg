@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="200" height="200" fill="#000000"/>
+  
+  <!-- The letter "i" in red -->
+  <g transform="translate(100, 100)">
+    <!-- Dot of the "i" -->
+    <circle cx="0" cy="-40" r="15" fill="#FF0000"/>
+    
+    <!-- Stem of the "i" with curve -->
+    <path d="M -8,-20 Q -10,-10 -8,0 L -8,40 Q -8,45 -3,45 L 3,45 Q 8,45 8,40 L 8,0 Q 10,-10 8,-20" 
+          fill="#FF0000" stroke="none"/>
+  </g>
+</svg>

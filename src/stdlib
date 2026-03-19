@@ -1,0 +1,3 @@
+# This file marks the stdlib module directory
+# All generated function files are in tools/generated_functions/
+# The main stdlib.rs file imports and registers these functions
